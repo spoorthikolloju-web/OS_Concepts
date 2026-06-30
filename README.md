@@ -213,7 +213,7 @@ Run them in **two different terminals**.
 
 ---
 
-## Requirements
+## Requirements (Execution)
 
 - Ubuntu / Linux
 - GCC Compiler
