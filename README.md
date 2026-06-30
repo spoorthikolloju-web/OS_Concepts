@@ -5,7 +5,6 @@ This repository contains basic Operating Systems lab programs implemented in C. 
 ---
 ## Repository Structure
 
-```
 OPERATING_SYSTEMS/
 │
 ├── CPU_Scheduling/
@@ -33,7 +32,7 @@ OPERATING_SYSTEMS/
 │   └── Reader_writer.c
 │
 └── README.md
-```
+
 ## Topics Covered
 
 ### 1. CPU Scheduling
