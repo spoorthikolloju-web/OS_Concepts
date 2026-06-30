@@ -3,7 +3,37 @@
 This repository contains basic Operating Systems lab programs implemented in C. The programs demonstrate important OS concepts such as CPU Scheduling, Process Synchronization, Inter-Process Communication (IPC), Multithreading, and Deadlock Avoidance.
 
 ---
+## Repository Structure
 
+```
+OPERATING_SYSTEMS/
+│
+├── CPU_Scheduling/
+│   ├── FCFS.c
+│   ├── SJF.c
+│   └── RoundRobin.c
+│
+├── Deadlock_avoidance/
+│   └── Bankers_algorithm.c
+│
+├── IPC_Message_passing/
+│   ├── unnamed_pipe.c
+│   ├── named_pipe.c
+│   ├── p_sender.c
+│   ├── p_receiver.c
+│   ├── message_queue.c
+│   └── shared_memory.c
+│
+├── MultiThreading/
+│   └── multithreading.c
+│
+├── Process_Synchronization/
+│   ├── Dining_philosophers.c
+│   ├── Producer-consumer.c
+│   └── Reader_writer.c
+│
+└── README.md
+```
 ## Topics Covered
 
 ### 1. CPU Scheduling
